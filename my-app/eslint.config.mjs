@@ -15,6 +15,7 @@ export default [
         },
         rules: {
             "prettier/prettier": "error",
+            "react/prop-type": "off",
         },
     },
 
